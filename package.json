@@ -1,0 +1,9 @@
+{
+  "name": "beach-coders",
+  "version": "1.0.0",
+  "description": "Curriculum for Beach Coder Students",
+  "main": "index.js",
+  "repository": "https://github.com/jkchuynh829/beach-coders",
+  "author": "Jimmy Huynh <jkchuynh829@gmail.com>",
+  "license": "MIT"
+}
