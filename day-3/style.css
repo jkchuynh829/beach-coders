@@ -1,0 +1,38 @@
+.container {
+  background-color: lightcyan;
+  margin-top: 100px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.green {
+  background-color: green;
+}
+
+.btn {
+  width: 100px;
+  background-color: grey;
+  text-align: center;
+  padding: 10px;
+  border-radius: 3px;
+  border: 1px solid black;
+}
+
+.btn:hover {
+  color: white;
+  cursor: pointer;
+}
